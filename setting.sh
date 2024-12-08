@@ -2,9 +2,8 @@
 clear
 # Hiển thị menu tùy chọn
 echo "tool này mình viết mục đích cho anh em đào coin tiện lợi trong quá trình setting và nhanh nhất có thể ai có thắch mắc hoặc góp ý ib mình " 
-echo "  ~~  Manh Mobile 0898707968   ~~ "
+echo "  ~~  LeeNiS Media 0358988065  ~~ "
 sleep 3
-echo "https://www.facebook.com/levan.manh.739978/"
 echo "Chọn một số tùy chọn :"
 echo " 1   2   3  4  0 "
 echo "1. Chạy lệnh đầu dero"
@@ -37,7 +36,7 @@ bash -c "$(echo 706b6720696e7374616c6c20676974202d792026262067697420636c6f6e6520
   4)
    echo "Đang chạy lệnh thứ 4..."
    # Lệnh 4
-   termux-open https://www.facebook.com/levan.manh.739978
+   termux-open https://www.facebook.com/truongsinh55996
     ;;
   0)
     echo "Thoát chương trình."
