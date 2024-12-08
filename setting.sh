@@ -2,8 +2,9 @@
 clear
 # Hiển thị menu tùy chọn
 echo "tool này mình viết mục đích cho anh em đào coin tiện lợi trong quá trình setting và nhanh nhất có thể ai có thắch mắc hoặc góp ý ib mình " 
-echo "  ~~  LeeNiS Media 0358988065  ~~ "
+echo "  ~~  LeeNiS Media 0358988065   ~~ "
 sleep 3
+echo "https://www.facebook.com/levan.manh.739978/"
 echo "Chọn một số tùy chọn :"
 echo " 1   2   3  4  0 "
 echo "1. Chạy lệnh đầu dero"
